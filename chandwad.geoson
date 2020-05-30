@@ -1,0 +1,42 @@
+{
+    "type": "FeatureCollection",
+    "features": [{
+        "type": "Feature",
+        "properties": {
+            "shape": "Marker",
+            "name": "Chandwad",
+            "category": "default"
+        },
+        "geometry": {
+            "type": "Point",
+            "coordinates": [74.236279, 20.330462]
+        },
+        "id": "78686445-bc55-40bb-8f46-f32436082cbd"
+    }, {
+        "type": "Feature",
+        "properties": {
+            "shape": "Polygon",
+            "name": "Chandwad Taluka",
+            "category": "default"
+        },
+        "geometry": {
+            "type": "Polygon",
+            "coordinates": [
+                [
+                    [74.220496, 20.32016],
+                    [74.225815, 20.312755],
+                    [74.230962, 20.303579],
+                    [74.260988, 20.306959],
+                    [74.286038, 20.315009],
+                    [74.28947, 20.334004],
+                    [74.285523, 20.362653],
+                    [74.244345, 20.368768],
+                    [74.215006, 20.358146],
+                    [74.211574, 20.340764],
+                    [74.220496, 20.32016]
+                ]
+            ]
+        },
+        "id": "e7500ef5-979b-47ec-8bf1-18a491884c71"
+    }]
+}
